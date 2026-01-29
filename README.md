@@ -1,5 +1,10 @@
 # ai-terraform
 
+[![npm version](https://img.shields.io/npm/v/ai-terraform.svg)](https://www.npmjs.com/package/ai-terraform)
+[![npm downloads](https://img.shields.io/npm/dm/ai-terraform.svg)](https://www.npmjs.com/package/ai-terraform)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate Terraform infrastructure configs
 
 ## Install
